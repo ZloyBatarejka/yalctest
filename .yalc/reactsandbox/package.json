@@ -1,6 +1,6 @@
 {
-  "name": "reactsandbox2",
-  "version": "0.1.0",
+  "name": "reactsandbox",
+  "version": "0.1.0+ddac313c",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -9,8 +9,6 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "reactsandbox": "file:.yalc/reactsandbox",
-    "test": "file:.yalc/test",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -36,5 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "yalcSig": "ddac313cfd795517c5d9b94b8564139e"
 }

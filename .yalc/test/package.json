@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0+b1a46a4e",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "yalcSig": "b1a46a4e83edcca430e33461f6d93718"
+}
